@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gguleHub.github.io/archive-xdbhnp/sitemap.xml
